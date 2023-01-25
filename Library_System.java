@@ -64,7 +64,6 @@ class Library {
         System.out.print("\n\t\tEnter Number of books You Want to add : ");
         this.numBook = sc.nextInt();
         this.k = numBook;
-        System.out.println(this.x);
         for (int i = this.x - this.j; i < this.numBook + this.x - j; i++) {
             System.out.print("\n\t\t\t  | " + (i + 1) + " Book |");
             System.out.print("\n\t\t\tBook Name   : ");
