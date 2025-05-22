@@ -63,4 +63,3 @@ This project is licensed under the MIT License.
 
 Made with ❤️ by [dev9310](https://github.com/dev9310)
 
-```
